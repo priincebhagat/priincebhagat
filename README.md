@@ -5,10 +5,11 @@
 My main interest is cybersecurity — I want to understand how systems work, how they break, and how to protect them. Still early in that journey but it's the direction I'm heading.
 ---
 ### What I'm working with right now
-- Python — just getting started, working through the basics
+- Python - just getting started, working through the basics
+- Cybersecurity - already started with basics in networking(Learning how our day to day life is connected to Computer Networks)
 ---
 ### A bit about my repos
-**pythonprogramming** — where I push my Python practice problems as I learn. Nothing fancy, just consistent work.
+**pythonprogramming** - where I push my Python practice problems as I learn. Nothing fancy, just consistent work.
 ---
 ### Where I want to go
 Cybersecurity is the goal. I'm taking it step by step — get solid at programming first, then move into networking and security concepts.
